@@ -1,3 +1,4 @@
 getgenv().Games = {
     [3623096087] = "https://raw.githubusercontent.com/ben1x1x1x1x/V2/main/V2", -- Muscle Legends
+    [3101667897] = "https://raw.githubusercontent.com/ben1x1x1x1x/V2/main/LegendOfSpeed", -- Legend of Speed
 }
