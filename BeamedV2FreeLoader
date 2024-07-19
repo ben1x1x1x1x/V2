@@ -1,4 +1,4 @@
- local A = loadstring(game:HttpGet(""))()
+ local A = loadstring(game:HttpGet("https://raw.githubusercontent.com/ben1x1x1x1x/V2/main/v2ListGame"))()
 
         function CheckingGame1()
         
