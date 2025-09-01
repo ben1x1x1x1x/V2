@@ -57,7 +57,7 @@ end
 
 -- cmon skid u dont need to steal this innocent source code LMAO
 task.spawn(function()
-    Announce("🌌 Added New Legends of Speed Script!! Execute the script on the Legends of Speed! (Please Wait..)")
+    Announce("🌌 Muscle Legends Key has Been change get it now on the discord server! (Please Wait..)")
 end)
 
 
