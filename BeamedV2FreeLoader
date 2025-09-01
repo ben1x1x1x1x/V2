@@ -57,7 +57,7 @@ end
 
 -- cmon skid u dont need to steal this innocent source code LMAO
 task.spawn(function()
-    Announce("🌌 Muscle Legends Key has Been change get it now on the discord server! (Please Wait..)")
+    Announce("🌌 Muscle Legends Key has Been change get it now on the discord server! And Also Added Funky Friday Script! (Please Wait..)")
 end)
 
 
