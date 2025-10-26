@@ -124,11 +124,8 @@ local function CreateUpdateGui()
     UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
 
     local updates = {
-        "- Added New FNF Script 🎵",
-        "- New Key for Muscle Legends! 💪",
-        "- Fixed Bugs and Improved Performance ⚡",
-		"- Not Joining the Discord Server Is very Gay asf ",
-		"- Gayming!!! "
+        "- Added Natural disaster script 🌪",
+        "- Join Discord PLS 💔"
 
 
     }
